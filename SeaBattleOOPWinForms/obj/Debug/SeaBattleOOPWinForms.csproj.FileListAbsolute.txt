@@ -1,0 +1,14 @@
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\bin\Debug\SeaBattleOOPWinForms.exe.config
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\bin\Debug\SeaBattleOOPWinForms.exe
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\bin\Debug\SeaBattleOOPWinForms.pdb
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\bin\Debug\SeaBattleBL.dll
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\bin\Debug\SeaBattleBL.pdb
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.Form1.resources
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.Properties.Resources.resources
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.csproj.GenerateResource.cache
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.csproj.CopyComplete
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.exe
+C:\Users\vlad\source\repos\Diskreminant\SeaBattleOOPWinForms\obj\Debug\SeaBattleOOPWinForms.pdb
